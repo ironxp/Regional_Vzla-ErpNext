@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vzla_taxislr *.css
+recursive-include vzla_taxislr *.csv
+recursive-include vzla_taxislr *.html
+recursive-include vzla_taxislr *.ico
+recursive-include vzla_taxislr *.js
+recursive-include vzla_taxislr *.json
+recursive-include vzla_taxislr *.md
+recursive-include vzla_taxislr *.png
+recursive-include vzla_taxislr *.py
+recursive-include vzla_taxislr *.svg
+recursive-include vzla_taxislr *.txt
+recursive-exclude vzla_taxislr *.pyc
