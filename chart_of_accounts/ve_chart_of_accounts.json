@@ -1,0 +1,999 @@
+{
+	"country_code": "ve",
+	"name": "Venezuela - Chart of Accounts",
+	"tree": {
+		"ACTIVOS": {
+			"ACTIVO CORRIENTE": {
+				"CAJA": {
+					"CAJA PRINCIPAL": {
+						"account_number": "110101"
+					},
+					"account_number": "1101"
+				},
+				"BANCOS": {
+					"BANCO PRINCIPAL": {
+						"account_number": "110201"
+					},
+					"account_number": "1102"
+				},
+				"CUENTAS POR COBRAR": {
+					"CUENTAS POR COBRAR CLIENTES": {
+						"account_number": "110301"
+					},
+					"CUENTAS POR COBRAR EMPLEADOS": {
+						"account_number": "110302"
+					},
+					"CUENTAS POR COBRAR TERCEROS": {
+						"account_number": "110303"
+					},
+					"account_number": "1103"
+				},
+				"OTRAS CUENTAS POR COBRAR": {
+					"PRESTAMOS A SOCIOS": {
+						"account_number": "110401"
+					},
+					"account_number": "1104"
+				},
+				"TRIBUTOS PAGADOS POR ANTICIPADO": {
+					"CREDITO FISCAL IVA": {
+						"account_number": "110501"
+					},
+					"CREDITO FISCAL IVA (DIFERIDO)": {
+						"account_number": "110502"
+					},
+					"EXCEDENTE DE CREDITO FISCAL IVA": {
+						"account_number": "110503"
+					},
+					"IVA RETENIDOS POR CLIENTES": {
+						"account_number": "110504"
+					},
+					"ISLR RETENIDOS POR CLIENTES": {
+						"account_number": "110505"
+					},
+					"ANTICIPO DE ISLR-DECLARACION": {
+						"account_number": "110506"
+					},
+					"account_number": "1105"
+				},
+				"INVENTARIOS": {
+					"MERCANCIAS DISPONIBLES": {
+						"account_number": "110601"
+					},
+					"MERCANCIAS EN TRANSITO": {
+						"account_number": "110602"
+					},
+					"MATERIAS PRIMAS DISPONIBLES": {
+						"account_number": "110603"
+					},
+					"MATERIAS PRIMAS EN TRANSITO": {
+						"account_number": "110604"
+					},
+					"PRODUCTOS EN PROCESO": {
+						"account_number": "110605"
+					},
+					"PRODUCTOS TERMINADOS": {
+						"account_number": "110606"
+					},
+					"account_number": "1106"
+				},
+				"GASTOS PAGADOS POR ANTICIPADOS": {
+					"ANTICIPO A PROVEEDORES": {
+						"account_number": "110701"
+					},
+					"SEGUROS PAGADOS POR ANTICIPADO": {
+						"account_number": "110702"
+					},
+					"ALQUILERES PAGADOS POR ANTICIPADOS": {
+						"account_number": "110703"
+					},
+					"account_number": "1107"
+				},
+				"account_number": "11"
+			},
+			"ACTIVO NO CORRIENTE": {
+				"PROPIEDAD, PLANTA Y EQUIPOS": {
+					"TERRENOS": {
+						"account_number": "120101"
+					},
+					"EDIFICIOS": {
+						"account_number": "120102"
+					},
+					"MAQUINARIAS": {
+						"account_number": "120103"
+					},
+					"VEHICULOS": {
+						"account_number": "120104"
+					},
+					"EQUIPOS": {
+						"account_number": "120105"
+					},
+					"HERRAMIENTAS": {
+						"account_number": "120106"
+					},
+					"MOBILIARIOS Y EQUIPOS DE OFICINA": {
+						"account_number": "120107"
+					},
+					"account_number": "1201"
+				},
+				"DEPRECIACION ACUMULADA": {
+					"DEPRECIACION ACUMULADA EDIFICIOS": {
+						"account_number": "120201"
+					},
+					"DEPRECIACION ACUMULADA MAQUINARIA": {
+						"account_number": "120202"
+					},
+					"DEPRECIACION ACUMULADA VEHICULOS": {
+						"account_number": "120203"
+					},
+					"DEPRECIACION ACUMULADA EQUIPOS": {
+						"account_number": "120204"
+					},
+					"DEPRECIACION ACUMULADA HERRAMIENTAS": {
+						"account_number": "120205"
+					},
+					"DEPRECIACION ACUMULADA MOBILIARIO": {
+						"account_number": "120206"
+					},
+					"account_number": "1202"
+				},
+				"ACTIVOS INTANGIBLES": {
+					"APLICACIONES INFORMATICAS": {
+						"account_number": "120301"
+					},
+					"PATENTE": {
+						"account_number": "120302"
+					},
+					"PLUSVALIA": {
+						"account_number": "120303"
+					},
+					"account_number": "1203"
+				},
+				"AMORTIZACION ACUMULADA": {
+					"AMORTIZACION DE SOFTWARE": {
+						"account_number": "120401"
+					},
+					"AMORTIZACION DE PATENTE": {
+						"account_number": "120402"
+					},
+					"AMORTIZACION DE PLUSVALIA": {
+						"account_number": "120403"
+					},
+					"account_number": "1204"
+				},
+				"OTROS ACTIVOS": {
+					"DEPOSITOS DADOS EN GARANTIA": {
+						"account_number": "120501"
+					},
+					"FONDOS DE PRESTACIONES SOCIALES": {
+						"account_number": "120502"
+					},
+					"account_number": "1205"
+				},
+				"account_number": "12"
+			},
+			"account_number": "1",
+			"root_type": "Asset"
+		},
+		"PASIVOS": {
+			"PASIVOS CORRIENTES": {
+				"CUENTAS POR PAGAR": {
+					"CUENTAS POR PAGAR PROVEEDORES": {
+						"account_number": "210101"
+					},
+					"CUENTAS POR PAGAR TERCEROS": {
+						"account_number": "210102"
+					},
+					"account_number": "2101"
+				},
+				"CUENTAS POR PAGAR PERSONAL": {
+					"NOMINA POR PAGAR": {
+						"account_number": "210201"
+					},
+					"BONO DE ALIMENTACION POR PAGAR": {
+						"account_number": "210202"
+					},
+					"BONIFICACIONES POR PAGAR": {
+						"account_number": "210203"
+					},
+					"VACACIONES POR PAGAR": {
+						"account_number": "210204"
+					},
+					"PRESTACIONES SOCIALES POR PAGAR": {
+						"account_number": "210205"
+					},
+					"account_number": "2102"
+				},
+				"RETENCIONES LABORALES": {
+					"RETENCIONES IVSS": {
+						"account_number": "210301"
+					},
+					"RETENCIONES RPE": {
+						"account_number": "210302"
+					},
+					"RETENCIONES FAOV": {
+						"account_number": "210303"
+					},
+					"RETENCIONES INCES": {
+						"account_number": "210304"
+					},
+					"account_number": "2103"
+				},
+				"OTRAS CUENTAS POR PAGAR": {
+					"CUENTAS POR PAGAR SOCIOS": {
+						"account_number": "210401"
+					},
+					"ANTICIPOS DE CLIENTES": {
+						"account_number": "210402"
+					},
+					"account_number": "2104"
+				},
+				"RETENCIONES TRIBUTARIAS": {
+					"DEBITO FISCAL IVA": {
+						"account_number": "210501"
+					},
+					"DEBITO FISCAL IVA (DIFERIDO)": {
+						"account_number": "210502"
+					},
+					"IVA RETENIDOS A PROVEEDORES": {
+						"account_number": "210503"
+					},
+					"ISLR RETENIDOS A PROVEEDORES": {
+						"account_number": "210504"
+					},
+					"ITF POR PAGAR": {
+						"account_number": "210505"
+					},
+					"account_number": "2105"
+				},
+				"IMPUESTOS POR PAGAR": {
+					"ISLR POR PAGAR": {
+						"account_number": "210601"
+					},
+					"IMPUESTOS MUNICIPAL POR PAGAR": {
+						"account_number": "210602"
+					},
+					"ISLR ESTIMADO POR PAGAR": {
+						"account_number": "210603"
+					},
+					"IMPUESTO MUNICIPAL ESTIMADO POR PAGAR": {
+						"account_number": "210604"
+					},
+					"APORTE LOPNA POR PAGAR": {
+						"account_number": "210605"
+					},
+					"APORTE FONDO NACIONAL DEL DEPORTE": {
+						"account_number": "210606"
+					},
+					"APORTE FONACIT POR PAGAR": {
+						"account_number": "210607"
+					},
+					"account_number": "2106"
+				},
+				"account_number": "21"
+			},
+			"PASIVOS NO CORRIENTES": {
+				"OBLIGACIONES BANCARIAS": {
+					"PRESTAMOS BANCARIOS": {
+						"account_number": "220101"
+					},
+					"HIPOTECAS POR PAGAR": {
+						"account_number": "220102"
+					},
+					"account_number": "2201"
+				},
+				"CREDITOS DIFERIDOS": {
+					"ALQUILERES COBRADOS POR ANTICIPADO": {
+						"account_number": "220201"
+					},
+					"INTERESES COBRADOS POR ANTICIPADO": {
+						"account_number": "220202"
+					},
+					"COMISIONES COBRADAS POR ANTICIPADO": {
+						"account_number": "220203"
+					},
+					"SERVICIOS FINANCIEROS": {
+						"account_number": "220204"
+					},
+					"account_number": "2202"
+				},
+				"OTROS PASIVOS": {
+					"PROVISIONES PARA PRESTACION SOCIAL": {
+						"account_number": "220301"
+					},
+					"CUENTAS POR PAGAR SOCIOS LARGO PLAZO": {
+						"account_number": "220302"
+					},
+					"DEPOSITOS RECIBIDOS EN GARANTIAS": {
+						"account_number": "220303"
+					},
+					"account_number": "2203"
+				},
+				"account_number": "22"
+			},
+			"account_number": "2",
+			"root_type": "Liability"
+		},
+		"PATRIMONIO": {
+			"CAPITAL": {
+				"CAPITAL SOCIAL": {
+					"CAPITAL SOCIAL SUSCRITO": {
+						"account_number": "310101"
+					},
+					"CAPITAL SOCIAL NO PAGADO": {
+						"account_number": "310102"
+					},
+					"account_number": "3101"
+				},
+				"account_number": "31"
+			},
+			"SUPERAVIT": {
+				"UTILIDADES": {
+					"UTILIDADES ACUMULADAS": {
+						"account_number": "320101"
+					},
+					"UTILIDADES ACUMULADAS POR INFLACION": {
+						"account_number": "320102"
+					},
+					"UTLIDAD DEL EJERCICIO": {
+						"account_number": "320103"
+					},
+					"UTILIDAD DEL EJERCICIO POR INFLACION": {
+						"account_number": "320104"
+					},
+					"account_number": "3201"
+				},
+				"account_number": "32"
+			},
+			"DEFICIT": {
+				"PERDIDAS": {
+					"PERDIDAS ACUMULADAS": {
+						"account_number": "330101"
+					},
+					"PERDIDAS ACUMULADAS POR INFLACION": {
+						"account_number": "330102"
+					},
+					"PERDIDA DEL EJERCICIO": {
+						"account_number": "330103"
+					},
+					"PERDIDA DEL EJERCICIO POR INFLACION": {
+						"account_number": "330104"
+					},
+					"account_number": "3301"
+				},
+				"account_number": "33"
+			},
+			"RESERVAS": {
+				"RESERVAS CAPITALES": {
+					"RESERVAS LEGALES": {
+						"account_number": "340101"
+					},
+					"RESERVAS ESTATUTARIAS": {
+						"account_number": "340102"
+					},
+					"RESERVAS VOLUNTARIAS": {
+						"account_number": "340103"
+					},
+					"account_number": "3401"
+				},
+				"account_number": "34"
+			},
+			"account_number": "3",
+			"root_type": "Equity"
+		},
+		"INGRESOS": {
+			"INGRESOS OPERACIONALES": {
+				"INGRESOS POR VENTAS": {
+					"VENTAS DE MERCANCIAS": {
+						"account_number": "410101"
+					},
+					"VENTAS DE PRODUCTOS TERMINADOS": {
+						"account_number": "410102"
+					},
+					"account_number": "4101"
+				},
+				"INGRESOS POR SERVICIOS": {
+					"SERVICIOS VARIOS": {
+						"account_number": "410201"
+					},
+					"HONORARIOS POR ASESORIA": {
+						"account_number": "410202"
+					},
+					"SERVICIOS DE REPARACION": {
+						"account_number": "410203"
+					},
+					"account_number": "4102"
+				},
+				"DESCUENTOS Y DEVOLUCIONES VENTAS": {
+					"DESCUENTOS EN VENTAS": {
+						"account_number": "410301"
+					},
+					"REBAJAS EN VENTAS": {
+						"account_number": "410302"
+					},
+					"DEVOLUCIONES EN VENTAS": {
+						"account_number": "410303"
+					},
+					"account_number": "4103"
+				},
+				"account_number": "41"
+			},
+			"OTROS INGRESOS": {
+				"INGRESOS FINANCIEROS": {
+					"INGRESOS POR ALQUILERES": {
+						"account_number": "420101"
+					},
+					"INGRESOS POR INTERESES": {
+						"account_number": "420102"
+					},
+					"INGRESOS POR COMISIONES": {
+						"account_number": "420103"
+					},
+					"account_number": "4201"
+				},
+				"account_number": "42"
+			},
+			"INGRESOS EXTRAORDINARIOS": {
+				"EXTRAORDINARIOS": {
+					"INTERESES GANADOS POR ANTICIPADO": {
+						"account_number": "430101"
+					},
+					"VENTAS DE ACTIVOS FIJOS": {
+						"account_number": "430102"
+					},
+					"VENTAS DE DESPERDICIOS": {
+						"account_number": "430103"
+					},
+					"account_number": "4301"
+				},
+				"account_number": "43"
+			},
+			"account_number": "4",
+			"root_type": "Income"
+		},
+		"COSTOS": {
+			"COSTOS OPERACIONALES": {
+				"COMPRAS NETAS": {
+					"COMPRAS NACIONALES": {
+						"account_number": "510101"
+					},
+					"FLETES EN COMPRAS": {
+						"account_number": "510120"
+					},
+					"SEGUROS EN COMPRAS": {
+						"account_number": "510121"
+					},
+					"IMPUESTOS DE IMPORTACION": {
+						"account_number": "510131"
+					},
+					"DERECHOS DE IMPORTACION": {
+						"account_number": "510132"
+					},
+					"FLETES DE IMPORTACION": {
+						"account_number": "510133"
+					},
+					"ALMACENAJE POR IMPORTACION": {
+						"account_number": "510134"
+					},
+					"COMISION AGENTES ADUANALES": {
+						"account_number": "510135"
+					},
+					"OTROS GASTOS DE COMPRAS": {
+						"account_number": "510140"
+					},
+					"account_number": "5101"
+				},
+				"DESCUENTOS Y DEVOLUCIONES COMPRAS": {
+					"DESCUENTOS EN COMPRAS": {
+						"account_number": "510201"
+					},
+					"REBAJAS EN COMPRAS": {
+						"account_number": "510202"
+					},
+					"DEVOLUCIONES EN COMPRAS": {
+						"account_number": "510203"
+					},
+					"COMPRAS EN EL EXTERIOR": {
+						"account_number": "510230"
+					},
+					"account_number": "5102"
+				},
+				"INVENTARIOS DE MERCANCIA": {
+					"INVENTARIO INICIAL DE MERCANCIAS": {
+						"account_number": "510301"
+					},
+					"INVENTARIO FINAL DE MERCANCIAS": {
+						"account_number": "510302"
+					},
+					"account_number": "5103"
+				},
+				"account_number": "51"
+			},
+			"COSTOS DE PRODUCCION": {
+				"COMPRAS MATERIA PRIMA": {
+					"COMPRAS NACIONALES MATERIA PRIMA": {
+						"account_number": "520101"
+					},
+					"FLETES EN COMPRAS DE MATERIA PRIMA": {
+						"account_number": "520120"
+					},
+					"account_number": "5201"
+				},
+				"DESC. Y DEV. COMPRAS MATERIA PRIMA": {
+					"DESCUENTOS EN COMPRAS MATERIA PRIMA": {
+						"account_number": "520201"
+					},
+					"REBAJAS EN COMPRAS MATERIA PRIMA": {
+						"account_number": "520202"
+					},
+					"DEVOLUCION COMPRAS MATERIA PRIMA": {
+						"account_number": "520203"
+					},
+					"account_number": "5202"
+				},
+				"MANO DE OBRA DIRECTA (PROD.)": {
+					"SUELDOS Y SALARIOS (PROD.)": {
+						"account_number": "520301"
+					},
+					"HORAS EXTRAS (PROD.)": {
+						"account_number": "520302"
+					},
+					"BONIFICACIONES (PROD.)": {
+						"account_number": "520303"
+					},
+					"BONO DE ALIMENTACION (PROD.)": {
+						"account_number": "520304"
+					},
+					"VACACIONES (PROD.)": {
+						"account_number": "520305"
+					},
+					"UTILIDADES (PROD.)": {
+						"account_number": "520306"
+					},
+					"PRESTACIONES SOCIALES (PROD.)": {
+						"account_number": "520307"
+					},
+					"ANTIGUEDAD (PROD.)": {
+						"account_number": "520308"
+					},
+					"PREAVISO (PROD.)": {
+						"account_number": "520309"
+					},
+					"account_number": "5203"
+				},
+				"MATERIALES INDIRECTOS (PROD.)": {
+					"MATERIALES Y SUMINISTROS (PROD.)": {
+						"account_number": "520401"
+					},
+					"HERRAMIENTAS MENORES (PROD.)": {
+						"account_number": "520402"
+					},
+					"REPUESTOS Y ACCESORIOS (PROD.)": {
+						"account_number": "520403"
+					},
+					"MATERIAL DE EMPAQUE (PROD.)": {
+						"account_number": "520404"
+					},
+					"account_number": "5204"
+				},
+				"OTROS GASTOS DEL PERSONAL (PROD.)": {
+					"SERVICIOS MEDICOS (PROD.)": {
+						"account_number": "520501"
+					},
+					"UNIFORMES Y EQUIPOS (PROD.)": {
+						"account_number": "520502"
+					},
+					"FIESTAS Y AGASAJOS (PROD.)": {
+						"account_number": "520503"
+					},
+					"account_number": "5205"
+				},
+				"CONTRIBUCIONES (PROD.)": {
+					"COSTOS MUNICIPALES (PROD.)": {
+						"account_number": "520601"
+					},
+					"COSTOS IVSS (PROD.)": {
+						"account_number": "520602"
+					},
+					"COSTOS RPE (PROD.)": {
+						"account_number": "520603"
+					},
+					"COSTOS FAOV (PROD.)": {
+						"account_number": "520604"
+					},
+					"COSTOS INCES (PROD.)": {
+						"account_number": "520605"
+					},
+					"ASOCIACIONES EMPRESARIALES (PROD.)": {
+						"account_number": "520606"
+					},
+					"account_number": "5206"
+				},
+				"COSTOS DE SERVICIOS PUBLICOS (PROD.)": {
+					"COSTOS DE AGUA (PROD.)": {
+						"account_number": "520701"
+					},
+					"COSTOS DE ELECTRICIDAD Y ASEOS (PROD.)": {
+						"account_number": "520702"
+					},
+					"COSTOS DE TELEFONIA (PROD.)": {
+						"account_number": "520703"
+					},
+					"account_number": "5207"
+				},
+				"MANT. Y REPARACIONES (PROD.)": {
+					"MANT. DE EDIFICIO (PROD.)": {
+						"account_number": "520801"
+					},
+					"MANT. DE MAQUINARIA Y EQUIPOS (PROD.)": {
+						"account_number": "520802"
+					},
+					"account_number": "5208"
+				},
+				"DEPRECIACION Y AMORTIZACION (PROD.)": {
+					"DEPRECIACION DE EDIFICIOS (PROD.)": {
+						"account_number": "520901"
+					},
+					"DEPRECIACION DE MAQUINARIAS (PROD.)": {
+						"account_number": "520902"
+					},
+					"DEPRECIACION DE EQUIPOS (PROD.)": {
+						"account_number": "520903"
+					},
+					"DEPRECIACION DE HERRAMIENTAS (PROD.)": {
+						"account_number": "520904"
+					},
+					"account_number": "5209"
+				},
+				"CARGA FABRIL- VARIOS (PROD.)": {
+					"ALQUILERES (PROD.)": {
+						"account_number": "521001"
+					},
+					"PRIMAS DE SEGUROS (PROD.)": {
+						"account_number": "521002"
+					},
+					"SEGURIDAD INDUSTRIAL (PROD.)": {
+						"account_number": "521003"
+					},
+					"account_number": "5210"
+				},
+				"PERDIDA POR DETERIORO": {
+					"DETERIORO DE VALOR EN MATERIA PRIMA": {
+						"account_number": "521101"
+					},
+					"DETERIORO DE VALOR DE EDIFICIOS": {
+						"account_number": "521102"
+					},
+					"DETERIORO DE VALOR DE MAQUINARIAS": {
+						"account_number": "521103"
+					},
+					"DETERIORO DE VALOR DE EQUIPOS": {
+						"account_number": "521104"
+					},
+					"DETERIORO DE VALOR DE HERRAMIENTAS": {
+						"account_number": "521105"
+					},
+					"account_number": "5211"
+				},
+				"INVENTARIOS DE PRODUCCION": {
+					"INV. INICIAL DE MATERIA PRIMA": {
+						"account_number": "521201"
+					},
+					"INV. FINAL DE MATERIA PRIMA": {
+						"account_number": "521202"
+					},
+					"INV. INICIAL PRODUCTOS EN PROCESO": {
+						"account_number": "521203"
+					},
+					"INV. FINAL PRODUCTOS EN PROCESO": {
+						"account_number": "521204"
+					},
+					"INV. INICIAL PRODUCTOS TERMINADOS": {
+						"account_number": "521205"
+					},
+					"INV. FINAL PRODUCTOS TERMINADOS": {
+						"account_number": "521206"
+					},
+					"account_number": "5212"
+				},
+				"account_number": "52"
+			},
+			"account_number": "5",
+			"root_type": "Expense"
+		},
+		"GASTOS": {
+			"GASTOS OPERACIONALES": {
+				"GASTOS DE DISTRIBUCION Y VENTA": {
+					"SUELDOS DE DIRECTORES": {
+						"account_number": "610101"
+					},
+					"SUELDO DE EMPLEADOS": {
+						"account_number": "610102"
+					},
+					"HORAS EXTRAS": {
+						"account_number": "610103"
+					},
+					"BONO DE ALIMENTACION": {
+						"account_number": "610104"
+					},
+					"BONIFICACIONES": {
+						"account_number": "610105"
+					},
+					"COMISIONES": {
+						"account_number": "610106"
+					},
+					"VACACIONES": {
+						"account_number": "610107"
+					},
+					"BONO VACACIONAL": {
+						"account_number": "610108"
+					},
+					"UTILIDADES": {
+						"account_number": "610109"
+					},
+					"PRESTACIONES SOCIALES": {
+						"account_number": "610110"
+					},
+					"INTERESES SOBRE PRESTACIONES SOCIALES": {
+						"account_number": "610111"
+					},
+					"FIESTAS Y AGAZAJOS": {
+						"account_number": "610112"
+					},
+					"UNIFORMES Y DOTACION": {
+						"account_number": "610113"
+					},
+					"SERVICIOS MEDICOS Y MEDICINAS": {
+						"account_number": "610114"
+					},
+					"UTILES ESCOLARES": {
+						"account_number": "610115"
+					},
+					"GUARDERIAS": {
+						"account_number": "610116"
+					},
+					"CURSOS Y ENTRENAMIENTOS": {
+						"account_number": "610117"
+					},
+					"SERVICIOS FUNERARIOS": {
+						"account_number": "610118"
+					},
+					"account_number": "6101"
+				},
+				"GASTOS DE VIAJES": {
+					"GASTOS DE VIATICOS": {
+						"account_number": "610201"
+					},
+					"GASTOS DE HOTELES": {
+						"account_number": "610202"
+					},
+					"GASTOS DE PASAJES": {
+						"account_number": "610203"
+					},
+					"account_number": "6102"
+				},
+				"CONTRIBUCIONES (GASTOS)": {
+					"CONTRIBUCIONES IVSS": {
+						"account_number": "610301"
+					},
+					"CONTRIBUCIONES RPE": {
+						"account_number": "610302"
+					},
+					"CONTRIBUCIONES FAOV": {
+						"account_number": "610303"
+					},
+					"CONTRIBUCIONES INCES": {
+						"account_number": "610304"
+					},
+					"DONACIONES": {
+						"account_number": "610305"
+					},
+					"CONTRIBUCIONES ASOC. EMPRESARIAL": {
+						"account_number": "610306"
+					},
+					"CONTRIBUCIONES CAMARA DE COMERCIO": {
+						"account_number": "610307"
+					},
+					"CONTRIBUCIONES LOPNA": {
+						"account_number": "610308"
+					},
+					"CONTRIBUCIONES FONACIT": {
+						"account_number": "610309"
+					},
+					"account_number": "6103"
+				},
+				"account_number": "61"
+			},
+			"GASTOS GENERALES": {
+				"GASTOS DE OFICINA": {
+					"PAPELERIA": {
+						"account_number": "620101"
+					},
+					"ARTICULOS DE OFICINA": {
+						"account_number": "620102"
+					},
+					"ARTICULOS DE LIMPIEZA": {
+						"account_number": "620103"
+					},
+					"COMIDAS Y BEBIDAS": {
+						"account_number": "620104"
+					},
+					"PUBLICIDAD Y PROPAGANDA": {
+						"account_number": "620105"
+					},
+					"ENVIOS Y ENCOMIENDAS": {
+						"account_number": "620106"
+					},
+					"SEGURIDAD Y MONITOREO": {
+						"account_number": "620107"
+					},
+					"SERVICIOS DE TRANSPORTE Y TAXIS": {
+						"account_number": "620108"
+					},
+					"ALQUILER DE BIENES INMUEBLES": {
+						"account_number": "620109"
+					},
+					"ALQUILER DE BIENES MUBLES": {
+						"account_number": "620110"
+					},
+					"account_number": "6201"
+				},
+				"SERVICIOS PUBLICOS": {
+					"SERVICIOS DE AGUA": {
+						"account_number": "620201"
+					},
+					"SERVICIOS DE ELECTRICIDAD": {
+						"account_number": "620202"
+					},
+					"SERVICIOS DE ASEO": {
+						"account_number": "620203"
+					},
+					"SERVICIOS DE TELEFONIA FIJA": {
+						"account_number": "620204"
+					},
+					"SERVICIOS DE TELEFONIA MOVIL": {
+						"account_number": "620205"
+					},
+					"SERVICIOS DE INTERNET": {
+						"account_number": "620206"
+					},
+					"account_number": "6202"
+				},
+				"HONORARIOS PROFESIONALES": {
+					"ASISTENCIA JURIDICA": {
+						"account_number": "620301"
+					},
+					"ASISTENCIA CONTABLE": {
+						"account_number": "620302"
+					},
+					"ASISTENCIA TECNICA": {
+						"account_number": "620303"
+					},
+					"OTROS HONORARIOS": {
+						"account_number": "620304"
+					},
+					"account_number": "6203"
+				},
+				"SERVICIOS DE TERCEROS": {
+					"SERVICIOS CONTRATADOS": {
+						"account_number": "620401"
+					},
+					"SERVICIOS DE VIGILANCIA": {
+						"account_number": "620402"
+					},
+					"PRIMAS DE SEGUROS": {
+						"account_number": "620403"
+					},
+					"GASTOS BANCARIOS": {
+						"account_number": "620404"
+					},
+					"COMISIONES BANCARIAS": {
+						"account_number": "620405"
+					},
+					"FLETES TRANSPORTE Y ACARREOS": {
+						"account_number": "620406"
+					},
+					"GASTOS DE ALQUILERES A TERCEROS": {
+						"account_number": "620407"
+					},
+					"account_number": "6204"
+				},
+				"GASTOS LEGALES": {
+					"GASTOS DE REGISTROS Y NOTARIAS": {
+						"account_number": "620501"
+					},
+					"GASTOS DE COBRANZA": {
+						"account_number": "620502"
+					},
+					"TRAMITES Y LICENCIAS": {
+						"account_number": "620503"
+					},
+					"ESTAMPILLAS Y TIMBRES FISCALES": {
+						"account_number": "620504"
+					},
+					"account_number": "6205"
+				},
+				"MANT. Y CONSERVACION DE MUEBLE": {
+					"MANT. Y REPARACION DE EDIFICIO": {
+						"account_number": "620601"
+					},
+					"MANT. Y REPARACION DE MAQUINARIA": {
+						"account_number": "620602"
+					},
+					"MANT. Y REPARACION DE VEHICULOS": {
+						"account_number": "620603"
+					},
+					"MANT. Y REPARACION DE EQUIPOS": {
+						"account_number": "620604"
+					},
+					"account_number": "6206"
+				},
+				"DEPRECIACION Y AMORTIZACION (GASTO)": {
+					"DEPRECIACION DE EDIFICIOS (GASTO)": {
+						"account_number": "620701"
+					},
+					"DEPRECIACION DE MAQUINARIAS (GASTO)": {
+						"account_number": "620702"
+					},
+					"DEPRECIACION DE VEHICULOS (GASTO)": {
+						"account_number": "620703"
+					},
+					"DEPRECIACION DE EQUIPOS (GASTO)": {
+						"account_number": "620704"
+					},
+					"DEPRECIACION DE HERRAMIENTAS (GASTO)": {
+						"account_number": "620705"
+					},
+					"DEPRECIACION DE MOBILIARIO (GASTO)": {
+						"account_number": "620706"
+					},
+					"account_number": "6207"
+				},
+				"account_number": "62"
+			},
+			"OTROS GASTOS": {
+				"GASTOS FISCALES": {
+					"CREDITO FISCAL IVA": {
+						"account_number": "630101"
+					},
+					"TIMBRE FISCAL": {
+						"account_number": "630102"
+					},
+					"TRIBUTOS ADUANALES": {
+						"account_number": "630103"
+					},
+					"TASAS E IMPUESTOS": {
+						"account_number": "630104"
+					},
+					"IMPUESTOS MUNICIPALES (GASTOS)": {
+						"account_number": "630105"
+					},
+					"MULTAS Y SANCIONES ENTES NACIONALES": {
+						"account_number": "630106"
+					},
+					"MULTAS Y SANCIONES ENTES MUNICIPALES": {
+						"account_number": "630107"
+					},
+					"account_number": "6301"
+				},
+				"DEMANDAS": {
+					"DEMANDAS LABORALES": {
+						"account_number": "630201"
+					},
+					"DEMANDAS POR INCUMPLIMIENTO": {
+						"account_number": "630202"
+					},
+					"INDEMNIZACIONES A TERCEROS": {
+						"account_number": "630203"
+					},
+					"COSTAS Y PROCESOS JUDICIALES": {
+						"account_number": "630204"
+					},
+					"account_number": "6302"
+				},
+				"account_number": "63"
+			},
+			"account_number": "6",
+			"root_type": "Expense"
+		}
+	}
+}
